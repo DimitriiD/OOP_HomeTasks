@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Oop
 {
-    class special_vehiclecs : Машины, Interface1
+    class special_vehiclecs : Vehicles, Interface1
     {
         public string srt;
         public override void Двигатель()

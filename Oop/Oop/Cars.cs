@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Oop
 {
-    class Cars : Машины
+    class Cars : Vehicles
     {
         public override void Двигатель()
         {

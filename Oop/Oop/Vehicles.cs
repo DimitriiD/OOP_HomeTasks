@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Oop
 {
-    abstract class Машины
+    abstract class Vehicles
     {
         public string марка;
         public string модель;
