@@ -6,6 +6,7 @@ namespace Oop
 {
     abstract class Vehicles
     {
+        [AforV(minprice = 4000)]
         public string марка;
         public string модель;
         public int количество_мест;

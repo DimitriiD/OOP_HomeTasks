@@ -6,6 +6,7 @@ namespace Oop
 {
     class Trucks : Vehicles, Interface1
     {
+        [AforV(minprice = 100000)]
         public string srt;
         public override void Двигатель()
         {
